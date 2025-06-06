@@ -9,6 +9,7 @@
 - 💬 Ask me about Android, Kotlin, Room Database, and Android Studio  
 - 🌱 Continuously learning Android Development & Data Structures & Algorithms (DSA)  
 - 📫 Reach me at: [mishrarajiv14144303@gmail.com](mailto:mishrarajiv14144303@gmail.com)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/rajiv-mishra-6107712b2](https://www.linkedin.com/in/rajiv-mishra-6107712b2)  
 - 🔥 Fun fact: I love turning ideas into real, usable apps!
 
 ---
