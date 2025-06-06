@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Rajiv Mishra
 
-<!--
-**Sakssmama01/Sakssmama01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Android developer from India 🇮🇳
 
-Here are some ideas to get you started:
+- 🎓 BCA 2025 | Galgotias University  
+- 📱 I’m currently working on Android apps using Kotlin and XML  
+- 🔧 Projects: [Notice Board App](#), [Hostel ePass](#), [Club Notice App](#)  
+- 💬 Ask me about Android, Kotlin, and Room Database  
+- 🛠️ I'm currently learning Jetpack Compose  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajiv-mishra-6107712b2)  
+- 🔥 Fun fact: I love turning ideas into real apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajiv-mishra-6107712b2)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Sakssmama01)
+
