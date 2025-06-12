@@ -36,7 +36,6 @@
 
 ---
 
-<img src="./banner.png" alt="Rajiv Mishra | Sakssmama" width="100%" />
 
 ---
 
