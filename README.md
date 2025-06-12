@@ -3,7 +3,7 @@
 ### A passionate Android developer from India 🇮🇳
 
 - 🎓 BCA 2025 | Galgotias University  
-- 🚀 Aspiring Android Developer | Kotlin Enthusiast | Tech Lover 💪  
+- 🚀 Aspiring Android Developer | Kotlin Enthusiast | 
 - 📱 Currently building **Sakssmama - English Learning App** and learning Jetpack Compose  
 - 🔧 Projects: [Notice Board App](#), [Hostel ePass](#), [Club Notice App](#)  
 - 💬 Ask me about Android, Kotlin, Room Database, and Android Studio  
