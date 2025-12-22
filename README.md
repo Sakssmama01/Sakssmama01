@@ -2,16 +2,10 @@
 
 ### A passionate Android developer from India 🇮🇳
 
-- 🎓 BCA 2025 | Galgotias University  
-- 🚀 Aspiring Android Developer | Kotlin Enthusiast | 
-- 📱 Currently building **Sakssmama - Notice Board App ** and learning Jetpack Compose  
-- 🔧 Projects: [Notice Board App](#), [Hostel ePass](#), [Club Notice App](#)  
-- 💬 Ask me about Android, Kotlin, Room Database, and Android Studio  
-- 🌱 Continuously learning Android Development & Data Structures & Algorithms (DSA)  
+- 🎓 Galgotias University  
+- 🚀  Android Developer | Kotlin Enthusiast | 
 - 📫 Reach me at: [mishrarajiv14144303@gmail.com](mailto:mishrarajiv14144303@gmail.com)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/rajiv-mishra-6107712b2](https://www.linkedin.com/in/rajiv-mishra-6107712b2)  
-- 🔥 Fun fact: I love turning ideas into real, usable apps!
-
 ---
 
 ### Connect with me
