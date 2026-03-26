@@ -1,82 +1,79 @@
-# 🌦️ Weather App (Android)
+# Hi 👋, I'm Rajiv Mishra
 
-A simple and clean Android Weather Application built using **Kotlin** that fetches real-time weather data using a REST API.
+### 🚀 Android Developer | Kotlin Enthusiast
+
+🎓 **BCA Graduate from Galgotias University**
+📱 Passionate about building Android applications using Kotlin
+🌱 Currently improving Android development & problem-solving skills
+
+📫 **Email:** [mishrarajiv14144303@gmail.com](mailto:mishrarajiv14144303@gmail.com)
+🔗 **LinkedIn:** https://www.linkedin.com/in/rajiv-mishra-6107712b2
 
 ---
 
-## 🚀 Features
+## 🚀 Featured Projects
 
-* 🌍 Get real-time weather data for any city
-* 🌡️ Displays temperature, humidity, and weather conditions
-* 🔄 Dynamic UI updates based on API response
-* 📱 Clean and user-friendly interface
-* ⚡ Fast data fetching using REST API
+### 🌦️ Weather App
+
+🔗 https://github.com/Sakssmama01/WheatherApp
+
+* Built using Kotlin and REST API
+* Fetches real-time weather data (temperature, humidity, conditions)
+* Implemented JSON parsing and dynamic UI updates
+
+---
+
+### 📢 University Notice Board App
+
+🔗 https://github.com/Sakssmama01/NoticeBoardApp
+
+* Real-time notice sharing app for students
+* Used Room Database for local data storage
+* Implemented navigation between screens using Intents
+
+---
+
+### 🏫 Hostel ePass System
+
+🔗 https://github.com/Sakssmama01/HOSTEL-PASS
+
+* Digital gate pass system for hostel management
+* Implemented request and approval workflow
+* Replaced manual process with structured digital tracking
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Language:** Kotlin
-* **Android:** Android SDK, XML
-* **API:** REST API (Weather API)
-* **Concepts:** JSON Parsing, API Integration
-* **Tools:** Android Studio, Git, GitHub
+**Languages:** Kotlin, Java
+**Android:** Android SDK, XML, Activities, Fragments, Intents
+**Tools:** Git, GitHub, Firebase, Android Studio
+**Concepts:** REST APIs, JSON, MVVM (Basics), Jetpack Components
 
 ---
 
-## 📸 Screenshots
+## 📊 GitHub Stats
 
-### 🌦️ Weather Screen
-
-![Weather Screen](https://raw.githubusercontent.com/Sakssmama01/WheatherApp/main/WhatsApp%20Image%202026-03-26%20at%2017.53.06.jpeg)
+![Rajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakssmama01\&show_icons=true\&theme=tokyonight\&count_private=true\&hide=prs)
 
 ---
 
-## ⚙️ How It Works
+## 🔥 Languages & Tools
 
-1. User enters a city name
-2. App sends a request to the weather API
-3. API returns data in JSON format
-4. App parses the JSON response
-5. Weather details are displayed on the screen
-
----
-
-## 📂 Project Structure
-
-* `MainActivity` → Handles UI and user input
-* `API Service` → Handles API calls
-* `Model Classes` → Stores weather data
-* `XML Layouts` → UI design
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-## ▶️ How to Run
+## 🤝 Connect with me
 
-```bash
-git clone https://github.com/Sakssmama01/WheatherApp
-```
-
-1. Open in Android Studio
-2. Sync Gradle
-3. Run on Emulator / Real Device
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/rajiv-mishra-6107712b2)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/Sakssmama01)
 
 ---
 
-## 📌 Future Improvements
-
-* 📍 Add location-based weather (GPS)
-* 📊 Add 7-day weather forecast
-* 🎨 Improve UI with animations
-* ❗ Better error handling (invalid city / no internet)
-
----
-
-## 👨‍💻 Author
-
-**Rajiv Mishra**
-
-* 📧 [mishrarajiv14144303@gmail.com](mailto:mishrarajiv14144303@gmail.com)
-* 🔗 https://github.com/Sakssmama01
-
----
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=Sakssmama01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
+</p>
