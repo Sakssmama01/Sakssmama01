@@ -1,79 +1,146 @@
 # Hi 👋, I'm Rajiv Mishra
 
-### 🚀 Android Developer | Kotlin Enthusiast
+### ☁️ Aspiring Cloud & DevOps Engineer | Cloud Enthusiast
 
 🎓 **BCA Graduate from Galgotias University**
-📱 Passionate about building Android applications using Kotlin
-🌱 Currently improving Android development & problem-solving skills
-
-📫 **Email:** [mishrarajiv14144303@gmail.com](mailto:mishrarajiv14144303@gmail.com)
-🔗 **LinkedIn:** https://www.linkedin.com/in/rajiv-mishra-6107712b2
-
----
-
-## 🚀 Featured Projects
-
-### 🌦️ Weather App
-
-🔗 https://github.com/Sakssmama01/WheatherApp
-
-* Built using Kotlin and REST API
-* Fetches real-time weather data (temperature, humidity, conditions)
-* Implemented JSON parsing and dynamic UI updates
+☁️ Currently learning **Cloud Computing & DevOps**
+🐧 Practicing **Linux, AWS, Git & GitHub**
+🚀 Building hands-on labs, projects, and automation skills
+📚 Focused on learning through practical implementation
 
 ---
 
-### 📢 University Notice Board App
+## 👨‍💻 About Me
 
-🔗 https://github.com/Sakssmama01/NoticeBoardApp
+I'm passionate about **Cloud Computing, DevOps, automation, and infrastructure**.
 
-* Real-time notice sharing app for students
-* Used Room Database for local data storage
-* Implemented navigation between screens using Intents
+Currently, I'm building my foundation through hands-on practice with Linux, AWS, Git, Docker, Terraform, CI/CD, and Kubernetes.
 
----
-
-### 🏫 Hostel ePass System
-
-🔗 https://github.com/Sakssmama01/HOSTEL-PASS
-
-* Digital gate pass system for hostel management
-* Implemented request and approval workflow
-* Replaced manual process with structured digital tracking
+I regularly document my learning, experiments, labs, and projects on GitHub as I progress toward becoming a **Cloud/DevOps Engineer**.
 
 ---
 
-## 🛠️ Tech Stack
+## ☁️ My Cloud & DevOps Journey
 
-**Languages:** Kotlin, Java
-**Android:** Android SDK, XML, Activities, Fragments, Intents
-**Tools:** Git, GitHub, Firebase, Android Studio
-**Concepts:** REST APIs, JSON, MVVM (Basics), Jetpack Components
+```text
+Linux
+  ↓
+Git & GitHub
+  ↓
+AWS
+  ↓
+Docker
+  ↓
+Terraform
+  ↓
+CI/CD
+  ↓
+Kubernetes
+  ↓
+Cloud & DevOps Projects
+```
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+### ☁️ Cloud
+
+* AWS
+* EC2
+* S3
+* IAM
+* Lambda
+* SQS
+* SNS
+* CloudWatch
+* VPC
+
+### ⚙️ DevOps
+
+* Git
+* GitHub
+* Docker
+* Terraform
+* CI/CD
+* GitHub Actions
+* Kubernetes
+
+### 🐧 Linux
+
+* Linux fundamentals
+* File permissions & ownership
+* Users & groups
+* Processes & services
+* Log analysis
+* Bash scripting
+* System administration
+* Troubleshooting
+
+### 🌐 Fundamentals
+
+* Networking
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* REST APIs
+* System & infrastructure fundamentals
+
+---
+
+## 🧪 Hands-On Learning
+
+I use GitHub to document my practical learning through:
+
+* 🐧 Linux labs
+* ☁️ AWS experiments
+* 🔧 Configuration & troubleshooting
+* 📜 Bash scripts
+* 🐳 Docker exercises
+* 🏗️ Infrastructure as Code
+* 🔄 CI/CD pipelines
+* ☸️ Kubernetes experiments
+
+---
+
+## 🚀 Projects
+
+### 🔜 Cloud & DevOps Projects
+
+* AWS Lambda + SQS workflow
+* Linux server monitoring using Bash
+* Dockerized application
+* AWS infrastructure using Terraform
+* CI/CD pipeline using GitHub Actions
+* Kubernetes application deployment
+
+More projects will be added as I continue learning and building.
+
+---
+
+## 📚 Learning Philosophy
+
+> **Learn → Practice → Build → Document → Improve**
+
+I believe the best way to learn Cloud & DevOps is through **hands-on practice and real-world projects**.
+
+This GitHub profile is my journey of continuously learning, experimenting, and building.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakssmama01\&show_icons=true\&theme=tokyonight\&count_private=true\&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakssmama01\&show_icons=true\&theme=tokyonight\&count_private=true)
 
 ---
 
-## 🔥 Languages & Tools
+## 🤝 Connect With Me
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+📧 **Email:** [mishrarajiv14144303@gmail.com](mailto:mishrarajiv14144303@gmail.com)
 
----
-
-## 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/rajiv-mishra-6107712b2)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/Sakssmama01)
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/rajiv-mishra-6107712b2
 
 ---
 
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=Sakssmama01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
-</p>
+⭐ **Learning Cloud & DevOps — one project at a time.**
