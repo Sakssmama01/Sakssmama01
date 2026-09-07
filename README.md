@@ -1,213 +1,281 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rajiv%20Mishra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descSize=20" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+my+Cloud+%26+DevOps+journey+%E2%98%81%EF%B8%8F;Linux+%7C+AWS+%7C+Git+%7C+Docker+%7C+Terraform;Learning+by+building+real+hands-on+projects;Automate+%E2%86%92+Deploy+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=260&section=header&text=RAJIV%20MISHRA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CLOUD%20%7C%20DEVOPS%20%7C%20AUTOMATION&descAlignY=58&descSize=20" width="100%"/>
 
 <br>
 
-<a href="https://github.com/Sakssmama01">
-<img src="https://komarev.com/ghpvc/?username=Sakssmama01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=850&lines=%24+initializing+cloud-journey...;Loading+Linux...+%E2%9C%93;Loading+AWS...+%E2%9C%93;Loading+DevOps+mindset...+%E2%9C%93;Building+%7C+Automating+%7C+Deploying;Cloud+%26+DevOps+journey+in+progress+%F0%9F%9A%80" alt="Typing Animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00c6ff?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%26%20DEVOPS-004e92?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MODE-HANDS--ON-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sakssmama01&label=VISITORS&color=00c6ff&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Rajiv
-
-I'm a **BCA graduate** with a growing interest in **Cloud Computing, DevOps and automation**.
-
-Right now, my focus is simple:
-
-> **Build a strong technical foundation → gain hands-on experience → build real projects → move deeper into Cloud & DevOps.**
-
-I'm using GitHub to document that journey — from Linux labs and AWS experiments to automation, infrastructure and deployment projects.
-
----
-
-## ☁️ What I'm Working With
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,docker,terraform,kubernetes,jenkins" />
+# 🖥️ SYSTEM ONLINE
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+OK+%5D+Linux+environment+initialized;%5B+OK+%5D+Git+workflow+initialized;%5B+OK+%5D+Cloud+learning+environment+initialized;%5B+RUNNING+%5D+Cloud+%26+DevOps+journey" alt="System Status"/>
 
 </div>
 
-### Current Focus
-
-**🐧 Linux**
-Commands • Permissions • Processes • Services • Logs • Bash
-
-**☁️ AWS**
-EC2 • S3 • IAM • Lambda • SQS • SNS • CloudWatch • VPC
-
-**⚙️ DevOps**
-Git • GitHub • Docker • Terraform • CI/CD • Kubernetes
-
----
-
-## 🔧 How I Learn
-
-I don't want this profile to be a collection of copied tutorials.
-
-My approach is:
-
 ```text
-        📖 Learn
-           ↓
-        🧪 Practice
-           ↓
-        🔧 Break Things
-           ↓
-        🛠️ Fix Them
-           ↓
-        📝 Document
-           ↓
-        🚀 Build Again
-```
-
-Every lab, experiment and project is part of the journey.
-
----
-
-## 🧪 What You'll Find Here
-
-This profile will gradually grow with:
-
-```text
-🐧 Linux Labs
-     │
-     ├── Permissions
-     ├── Processes
-     ├── Services
-     ├── Logs
-     └── Bash
-     
-☁️ AWS Practice
-     │
-     ├── EC2
-     ├── S3
-     ├── IAM
-     ├── Lambda
-     ├── SQS / SNS
-     └── CloudWatch
-
-⚙️ DevOps
-     │
-     ├── Git & GitHub
-     ├── Docker
-     ├── Terraform
-     ├── CI/CD
-     └── Kubernetes
-
-🚀 Projects
-     │
-     ├── Automation
-     ├── Cloud Infrastructure
-     └── Deployment
+┌──────────────────────────────────────────────────────────────┐
+│                     RAJIV MISHRA                             │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ROLE        → Cloud & DevOps Enthusiast                     │
+│  EDUCATION   → BCA Graduate                                  │
+│  FOCUS       → Cloud • Automation • Infrastructure           │
+│  APPROACH    → Learn • Practice • Build                      │
+│  STATUS      → ███████████████████░░░  IN PROGRESS           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 Projects
-
-### ☁️ Lambda + SQS Workflow
-
-A hands-on AWS project exploring how **Lambda and SQS work together** to process messages asynchronously.
-
-```text
-Application
-     ↓
-  Lambda
-     ↓
-    SQS
-     ↓
- Consumer
-     ↓
-CloudWatch
-```
-
-### 🐧 Linux Monitoring
-
-A practical Bash/Linux project focused on monitoring system resources, logs and basic server health.
-
-### 🐳 Docker Application
-
-Containerizing an application and understanding how images, containers and networking work.
-
-### 🏗️ Terraform Infrastructure
-
-Using Infrastructure as Code to provision and manage AWS resources.
-
-### 🔄 CI/CD Pipeline
-
-Building a pipeline that takes code from:
-
-```text
-GitHub
-  ↓
-Build
-  ↓
-Test
-  ↓
-Deploy
-```
-
----
-
-# 🎯 My Direction
-
-I'm not trying to learn everything at once.
-
-My current path is:
+# ☁️ CLOUD JOURNEY
 
 <div align="center">
 
-### 🐧 Linux + Git
-
-**↓**
-
-### ☁️ AWS Fundamentals
-
-**↓**
-
-### 🐳 Docker + Automation
-
-**↓**
-
-### 🏗️ Terraform + CI/CD
-
-**↓**
-
-### ☸️ Kubernetes
-
-**↓**
-
-### 🚀 Real Cloud/DevOps Projects
+```text
+                     ☁️
+                  AWS CLOUD
+                     │
+          ┌──────────┼──────────┐
+          │          │          │
+         EC2        S3       Lambda
+          │                     │
+          │                  SQS/SNS
+          │                     │
+          └──────────┬──────────┘
+                     │
+                  Docker
+                     │
+                 Terraform
+                     │
+                  CI/CD
+                     │
+                Kubernetes
+                     │
+                     🚀
+```
 
 </div>
 
-> **The goal isn't to collect technologies.
-> The goal is to understand how they work together.**
-
 ---
 
-# 📊 GitHub Activity
+# 🧠 CURRENT STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakssmama01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,docker,terraform,kubernetes,jenkins&perline=9" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakssmama01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Linux-Foundation-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 </div>
 
-<br>
+---
+
+# ⚡ HOW I BUILD
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Learn+something+new+%F0%9F%A7%A0;Break+it+%F0%9F%92%A5;Troubleshoot+it+%F0%9F%94%A7;Understand+why+it+broke+%F0%9F%94%8D;Document+the+solution+%F0%9F%93%9D;Build+it+again+%F0%9F%9A%80" alt="Learning Process"/>
+
+</div>
+
+```text
+       🧠 LEARN
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+       💥 BREAK
+          │
+          ▼
+       🔧 DEBUG
+          │
+          ▼
+       📝 DOCUMENT
+          │
+          ▼
+       🛠️ BUILD
+          │
+          ▼
+       🚀 DEPLOY
+          │
+          └───────────────► REPEAT
+```
+
+---
+
+# 🧪 HANDS-ON LABS
+
+<div align="center">
+
+|     🐧 Linux    |   ☁️ AWS   |  ⚙️ DevOps |
+| :-------------: | :--------: | :--------: |
+|   Permissions   |     EC2    |     Git    |
+|    Processes    |     S3     |   GitHub   |
+|     Services    |     IAM    |   Docker   |
+|       Logs      |   Lambda   |  Terraform |
+|       Bash      |  SQS / SNS |    CI/CD   |
+| Troubleshooting | CloudWatch | Kubernetes |
+
+</div>
+
+---
+
+# 🚀 BUILDING PROJECTS
+
+### ☁️ AWS MESSAGE PROCESSING
+
+```text
+                 📩 MESSAGE
+                      │
+                      ▼
+                 ┌─────────┐
+                 │ Lambda  │
+                 └────┬────┘
+                      │
+                      ▼
+                ┌───────────┐
+                │    SQS    │
+                └─────┬─────┘
+                      │
+                      ▼
+                 👨‍💻 CONSUMER
+                      │
+                      ▼
+                📊 CloudWatch
+```
+
+**Goal:** Understand asynchronous cloud communication and event-driven architecture.
+
+---
+
+### 🐧 LINUX MONITORING
+
+```text
+SERVER
+  │
+  ├── CPU
+  ├── MEMORY
+  ├── DISK
+  ├── PROCESSES
+  └── LOGS
+       │
+       ▼
+     BASH
+       │
+       ▼
+   MONITORING
+```
+
+---
+
+### 🐳 CONTAINERIZATION
+
+```text
+SOURCE CODE
+     │
+     ▼
+ Dockerfile
+     │
+     ▼
+ Docker Image
+     │
+     ▼
+ Container
+     │
+     ▼
+ Application 🚀
+```
+
+---
+
+### 🏗️ INFRASTRUCTURE AS CODE
+
+```text
+        TERRAFORM
+            │
+            ▼
+       ┌─────────┐
+       │   AWS   │
+       └────┬────┘
+            │
+      ┌─────┼─────┐
+      ▼     ▼     ▼
+     VPC   EC2    S3
+```
+
+---
+
+# 🎯 THE PATH
+
+<div align="center">
+
+```text
+🐧 Linux
+   │
+   ▼
+🔧 Git & GitHub
+   │
+   ▼
+☁️ AWS
+   │
+   ▼
+🐳 Docker
+   │
+   ▼
+🏗️ Terraform
+   │
+   ▼
+🔄 CI/CD
+   │
+   ▼
+☸️ Kubernetes
+   │
+   ▼
+🚀 REAL PROJECTS
+```
+
+### Not collecting tools.
+
+### Learning how they work together.
+
+</div>
+
+---
+
+# 📊 GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakssmama01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakssmama01&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Sakssmama01&theme=tokyonight&hide_border=true" />
 
@@ -215,72 +283,80 @@ My current path is:
 
 ---
 
-## 🐍 Contribution Journey
+# 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 📚 Currently Building
+# 📡 CURRENT STATUS
 
 ```text
-┌──────────────────────────────────────────┐
-│              CLOUD JOURNEY ☁️             │
-├──────────────────────────────────────────┤
-│                                          │
-│  ✓ Linux Fundamentals                    │
-│  ✓ Git & GitHub                          │
-│                                          │
-│  → AWS Core Services                     │
-│  → Bash Automation                       │
-│  → Docker                                │
-│  → Terraform                             │
-│  → CI/CD                                 │
-│  → Kubernetes                            │
-│                                          │
-│  → Build → Deploy → Automate             │
-│                                          │
-└──────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                    CLOUD SYSTEM STATUS                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Linux                 [████████████████████] READY          ║
+║  Git / GitHub          [████████████████████] READY          ║
+║  AWS                   [███████████░░░░░░░░░] BUILDING       ║
+║  Docker                [██████░░░░░░░░░░░░░] BUILDING       ║
+║  Terraform             [████░░░░░░░░░░░░░░░] NEXT           ║
+║  CI/CD                 [███░░░░░░░░░░░░░░░░] NEXT           ║
+║  Kubernetes            [██░░░░░░░░░░░░░░░░░] NEXT           ║
+║                                                              ║
+║  SYSTEM STATUS: 🚀 EVOLVING                                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 💡 One Commit at a Time
+# 💭 THE MINDSET
 
 <div align="center">
 
-```text
-$ git status
-
-Building skills...
-
-$ git commit -m "keep learning"
-
-🚀 Progress committed.
-```
-
-### ☁️ Learn. Build. Automate. Deploy.
-
-**One step closer to Cloud & DevOps.**
+> **Don't just learn a technology.**
+>
+> **Break it. Build it. Automate it. Understand it.**
 
 <br>
 
-<a href="mailto:mishrarajiv14144303@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### ☁️ Cloud
 
-<a href="https://www.linkedin.com/in/rajiv-mishra-6107712b2">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### ⚙️ Automation
 
-<a href="https://github.com/Sakssmama01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🐧 Linux
+
+### 🚀 Infrastructure
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+---
+
+# 🤝 CONNECT
+
+<div align="center">
+
+<a href="mailto:mishrarajiv14144303@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-mishrarajiv14144303%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajiv-mishra-6107712b2">
+<img src="https://img.shields.io/badge/LINKEDIN-RAJIV%20MISHRA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sakssmama01">
+<img src="https://img.shields.io/badge/GITHUB-SAKSSMAMA01-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;The+journey+has+just+started...;One+commit+%E2%86%92+one+step+forward+%F0%9F%9A%80" alt="Footer Animation"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:004e92,100:000428&height=140&section=footer" width="100%"/>
